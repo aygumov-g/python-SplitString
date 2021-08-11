@@ -32,4 +32,4 @@ def _(_):
 	_____["len"] = len(_)
 	return _____
 
-print(_("Here you can put any text that the program will later divide into: equal 2 or 3 or 4 or 5 parts; words."))
+print(_("Here you can put any text that the program will later divide into: equal 2 or 3 or 4 or 5 parts."))
