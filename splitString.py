@@ -8,6 +8,7 @@ def _(_):
 			for ____ in range(0, len(__), ___):
 				__________.append(__[____:____+___])
 		def ____(____, __, ______):
+			_____["reversed"] = False
 			if _______(1, 2) == 1:
 				__ = reversed(__)
 				_____["reversed"] = True
