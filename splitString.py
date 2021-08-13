@@ -23,8 +23,7 @@ def _(_):
 				else:
 					__________ -= 1
 			return __________
-		________ = [
-			14,
+		________ = [ # If you add len(_) either at the beginning or at the end of this list, then with a probability of 1 to 2, the transmitted string will be divided by characters.
 			6,
 			5,
 			4,
