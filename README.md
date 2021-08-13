@@ -17,5 +17,6 @@ A dictionary with the following keys is passed as output: `_`, `check`, `divisor
 --------`lenWhitespace`- This key stores the value of spaces in the passed string. <br/>
 --------`lenPunctuation` - This key stores a dictionary with punctuation marks. <br/>
 ------------ - The punctuation mark is a key with the corresponding value. <br/>
+--------`lenOther` - Other characters are stored in this key. <br/>
 --------`len` - This key stores the number of all characters in the transmitted string. <br/>
 ----`reversed` - If this key is equal to **True**, then this means that the program has walked through the line dividers backwards. <br/>
